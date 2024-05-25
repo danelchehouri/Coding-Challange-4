@@ -1,1 +1,3 @@
 # Coding-Challange-4
+
+By creating an EV (Electric Vehicle) class by extending the Car class, this project illustrates inheritance in object-oriented programming. Through inheritance, the EV class can include special functionality like battery charge management while also inheriting methods and attributes from the Car class.After creating an EV subclass with extra properties and methods for electric vehicles, we begin with a simple Car class. In this project, we investigate how inheritance facilitates code organization and reuse, hence streamlining the management of various object types inside a system.
